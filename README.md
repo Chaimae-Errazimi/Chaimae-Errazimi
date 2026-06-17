@@ -1,26 +1,16 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+# Hi, I'm Chaimae 👋
 
-###
+### AI & Automation Developer | Backend Architect
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="60" alt="notion logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
-</div>
+I specialize in bridging the gap between probabilistic AI models (LLMs) and deterministic routing (APIs). I build scalable, fault-tolerant backend systems that automate complex data pipelines for businesses.
 
-###
+## ⚙️ Tech Stack & Tools
+- **Languages:** Python, JavaScript / Node.js
+- **Automation & Routing:** n8n (Docker / Localhost), Make.com, REST APIs, Webhooks
+- **AI Integration:** Claude 3.5, OpenAI, Local LLMs (Ollama), LangChain
+- **Databases:** Supabase (PostgreSQL), Google Sheets APIs
+- **Environment:** Linux, Google Antigravity, Docker, Git
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
-</div>
-
-###
+## 📈 What I'm Building Currently
+- Engineering secure API architectures (OAuth2 & Bearer Tokens) via Python.
+- Load-testing local n8n environments to prevent 503 server errors.
